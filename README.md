@@ -3,7 +3,7 @@
 This is the paper list of our paper ''A Comprehensive Survey of Continual Learning: Theory, Method and Application'' [[link](https://arxiv.org/abs/2302.00487)]. We will continue to add useful resources to this repo.
 
 
-## Survey1
+## Survey
 
 - <a name="todo"></a> **[2023 arXiv]** A Comprehensive Survey of Continual Learning: Theory, Method and Application [[paper](https://arxiv.org/abs/2302.00487)]
 - <a name="todo"></a> **[2023 arXiv]** A Survey on Incremental Update for Neural Recommender Systems [[paper](https://arxiv.org/abs/2303.02851#)]
